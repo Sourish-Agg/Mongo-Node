@@ -1,0 +1,7 @@
+{
+    "watch": ["src", "bin", "test", "scripts"],
+    "ext": ".ts,.js,.pug,.css",
+    "ignore": [],
+    "exec": "node ./src/index.js"
+  }
+  
